@@ -156,6 +156,7 @@
 --------------------------------------
 
 ### 개발자 성장
+- [2021년 겨울 현장실습 근태관리 시스템 프로젝트 회고](https://mydevlife.tistory.com/12/)
 - [개발자 비급(祕笈) – 1. 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
 - [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 - [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
@@ -245,7 +246,6 @@
 - [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
 - [레디스 개발자 메인테이너 자리에서 내려오다](http://antirez.com/news/133)
 - [그런 개발자로 괜찮은가 - '자기계발' 편](https://taetaetae.github.io/2020/06/28/a-good-developer-in-terms-of-self-development/)
-
 --------------------------------------
 
 ### 비전공자 & 신입
